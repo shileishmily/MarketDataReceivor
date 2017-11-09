@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.code.morphia:morphia:0.104">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.morphia/morphia/0.104/3126062444bbe16b252259d4e3b04c358aa4954b/morphia-0.104.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.morphia/morphia/0.104/2fbb7ba72a565ad9d6a76f975dfb10e2fa3a9fb9/morphia-0.104-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

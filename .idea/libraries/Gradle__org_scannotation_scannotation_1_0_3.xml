@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scannotation:scannotation:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scannotation/scannotation/1.0.3/752458e33fd31d8dff9f0afa953b8e2bf90fe703/scannotation-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scannotation/scannotation/1.0.3/8ae91b8b8d46a4e3e26855ca044e02e84c2a3151/scannotation-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

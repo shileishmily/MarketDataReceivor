@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.qpid:qpid-client:0.24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.qpid/qpid-client/0.24/91119d4190ea96a6b52e174cde24c2dee8884fa8/qpid-client-0.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.qpid/qpid-client/0.24/91d6ad461cf089ef0e74d7887ac7d07de6ef273d/qpid-client-0.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

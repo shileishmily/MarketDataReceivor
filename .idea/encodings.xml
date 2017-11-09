@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/common/NumberUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/common/TimeUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sh/annotations/Function.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sh/data/BaseStockInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sh/data/CommonStockInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sh/handler/IShMsgHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sz/client/SzReceiveClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sz/handler/ConnectionHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sz/handler/DecodeHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/youguu/market/sz/handler/EncodeHandler.java" charset="UTF-8" />
+  </component>
+</project>
